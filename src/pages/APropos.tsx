@@ -198,20 +198,20 @@ export default function APropos() {
         </div>
       </section>
 
-      {/* LD SYSTEMS */}
+      {/* LD MÉTHODE */}
       <section className="py-12 md:py-16 bg-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <FadeIn>
             <div className="p-8 rounded-xl border border-gray-100 bg-gray-50/50">
               <h3 className="text-lg font-bold text-[#1A1A2E] mb-3">
-                LD SYSTEMS - Outils métier au service de la qualité
+                LD MÉTHODE - Outils métier au service de la qualité
               </h3>
               <p className="text-sm text-gray-600 leading-relaxed">
                 Pour garantir la qualité de son suivi et de son reporting,
                 LD MULTITEC s'appuie sur des outils digitaux métier développés
                 par{" "}
                 <span className="font-semibold text-[#1A7BAA]">
-                  LD SYSTEMS
+                  LD MÉTHODE
                 </span>
                 , spécialiste en solutions logicielles pour le secteur CVC.
                 Ces outils permettent d'assurer la traçabilité des opérations,
