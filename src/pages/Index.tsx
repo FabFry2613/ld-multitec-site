@@ -129,7 +129,7 @@ const reassurance = [
   {
     icon: Cpu,
     title: "Pilotage et traçabilité",
-    desc: "Suivi rigoureux de vos installations via des outils métier développés par LD SYSTEMS : monitoring, historique d'interventions et reporting de qualité.",
+    desc: "Suivi rigoureux de vos installations via des outils métier développés par LD MÉTHODE : monitoring, historique d'interventions et reporting de qualité.",
   },
 ];
 
@@ -542,7 +542,7 @@ export default function Index() {
         </div>
       </section>
 
-      {/* LD SYSTEMS — Support tooling, secondary positioning */}
+      {/* LD MÉTHODE — Support tooling, secondary positioning */}
       <section className="py-12 md:py-16 bg-white border-t border-gray-100">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <FadeInSection>
@@ -561,7 +561,7 @@ export default function Index() {
             <p className="text-sm text-gray-600 leading-relaxed mb-4 max-w-3xl">
               <span className="font-semibold text-[#1A1A2E]">LD MULTITEC</span>{" "}
               s'appuie sur une organisation technique structurée et sur des outils métier développés par{" "}
-              <span className="font-semibold text-[#1A7BAA]">LD SYSTEMS</span>,
+              <span className="font-semibold text-[#1A7BAA]">LD MÉTHODE</span>,
               spécifiquement conçus pour le pilotage des installations CVC.
             </p>
 
@@ -602,12 +602,12 @@ export default function Index() {
             </p>
 
             <a
-              href="https://ld-systems.fr"
+              href="https://ld-methode.fr"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1.5 text-sm text-[#1A7BAA] hover:text-[#15688F] font-medium transition-colors"
             >
-              En savoir plus sur LD SYSTEMS
+              En savoir plus sur LD MÉTHODE
               <ExternalLink className="w-3.5 h-3.5" />
             </a>
           </FadeInSection>
