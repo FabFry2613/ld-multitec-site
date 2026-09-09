@@ -453,14 +453,14 @@ export function Footer() {
             </p>
             <p className="text-[11px] text-white/30">
               <a
-                href="https://ld-systems.fr"
+                href="https://ld-methode.fr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-semibold text-[#3B82F6] hover:text-[#60A5FA] hover:underline transition-colors duration-300"
               >
-                LD SYSTEMS
+                LD MÉTHODE
               </a>{" "}
-              - solutions logicielles métier · LD PILOT
+              - conseil, automatisation & logiciels métier · LD PILOT
             </p>
           </div>
         </div>
