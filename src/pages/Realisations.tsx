@@ -92,7 +92,7 @@ export default function Realisations() {
           name="description"
           content="Découvrez les réalisations de LD MULTITEC en maintenance CVC : gestion multi-sites, rénovation chaufferie, contrats P3, optimisation énergétique. Exemples concrets d'interventions en Île-de-France."
         />
-        <link rel="canonical" href="https://www.ldmultitec.fr/realisations" />
+        <link rel="canonical" href="https://ld-multitec.fr/realisations" />
         {/* Open Graph */}
         <meta property="og:title" content="Réalisations CVC Île-de-France | Références & Exemples | LD MULTITEC" />
         <meta
@@ -100,8 +100,8 @@ export default function Realisations() {
           content="Exemples concrets d'interventions CVC en Île-de-France : maintenance multi-sites, rénovation chaufferie, contrats P3 et optimisation énergétique."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.ldmultitec.fr/realisations" />
-        <meta property="og:image" content="https://www.ldmultitec.fr/assets/logo-ld-multitec.webp" />
+        <meta property="og:url" content="https://ld-multitec.fr/realisations" />
+        <meta property="og:image" content="https://ld-multitec.fr/assets/logo-ld-multitec.webp" />
         <meta property="og:site_name" content="LD MULTITEC" />
         <meta property="og:locale" content="fr_FR" />
         {/* Twitter Card */}
@@ -111,7 +111,7 @@ export default function Realisations() {
           name="twitter:description"
           content="Exemples concrets d'interventions CVC : maintenance multi-sites, rénovation chaufferie, contrats P3 en Île-de-France."
         />
-        <meta name="twitter:image" content="https://www.ldmultitec.fr/assets/logo-ld-multitec.webp" />
+        <meta name="twitter:image" content="https://ld-multitec.fr/assets/logo-ld-multitec.webp" />
       </Helmet>
 
       {/* HERO */}
