@@ -59,7 +59,7 @@ function buildJsonLd(items: BreadcrumbItem[], pathname: string) {
       "@type": "ListItem",
       position: 1,
       name: "Accueil",
-      item: "https://www.ldmultitec.fr/",
+      item: "https://ld-multitec.fr/",
     },
   ];
 
@@ -72,7 +72,7 @@ function buildJsonLd(items: BreadcrumbItem[], pathname: string) {
       name: items[i].label,
     };
     if (isLast) {
-      entry.item = `https://www.ldmultitec.fr${pathname}`;
+      entry.item = `https://ld-multitec.fr${pathname}`;
     }
     listItems.push(entry);
     position++;
