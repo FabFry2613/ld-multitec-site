@@ -83,7 +83,7 @@ export interface ServicePageData {
 
 function toAbsoluteUrl(path: string): string {
   if (path.startsWith("http")) return path;
-  return `https://www.ldmultitec.fr${path}`;
+  return `https://ld-multitec.fr${path}`;
 }
 
 export default function ServicePage({ data }: { data: ServicePageData }) {
@@ -105,12 +105,12 @@ export default function ServicePage({ data }: { data: ServicePageData }) {
       <Helmet>
         <title>{data.seoTitle}</title>
         <meta name="description" content={data.seoDescription} />
-        <link rel="canonical" href={`https://www.ldmultitec.fr${data.canonical}`} />
+        <link rel="canonical" href={`https://ld-multitec.fr${data.canonical}`} />
         {/* Open Graph */}
         <meta property="og:title" content={data.seoTitle} />
         <meta property="og:description" content={data.seoDescription} />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content={`https://www.ldmultitec.fr${data.canonical}`} />
+        <meta property="og:url" content={`https://ld-multitec.fr${data.canonical}`} />
         <meta property="og:image" content={absoluteImageUrl} />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
