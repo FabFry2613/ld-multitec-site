@@ -195,7 +195,7 @@ const schemaOrg = {
   name: "LD MULTITEC",
   description:
     "Maintenance CVC professionnelle en Île-de-France pour entreprises, syndics de copropriété, bailleurs sociaux et collectivités.",
-  url: "https://www.ldmultitec.fr",
+  url: "https://ld-multitec.fr",
   email: "contact@ld-multitec.fr",
   areaServed: {
     "@type": "State",
@@ -220,7 +220,7 @@ export default function Index() {
           name="description"
           content="LD MULTITEC, expert en maintenance CVC multi-sites en Île-de-France. Contrats P2/P3, entretien chaufferie, dépannage et rénovation pour entreprises, syndics, bailleurs sociaux et collectivités. Devis gratuit sous 48h."
         />
-        <link rel="canonical" href="https://www.ldmultitec.fr/" />
+        <link rel="canonical" href="https://ld-multitec.fr/" />
         {/* Open Graph */}
         <meta
           property="og:title"
@@ -231,8 +231,8 @@ export default function Index() {
           content="Expert en maintenance CVC multi-sites en Île-de-France. Contrats P2/P3, entretien chaufferie, dépannage et rénovation pour professionnels. Devis gratuit sous 48h."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.ldmultitec.fr/" />
-        <meta property="og:image" content="https://www.ldmultitec.fr/assets/logo-ld-multitec.webp" />
+        <meta property="og:url" content="https://ld-multitec.fr/" />
+        <meta property="og:image" content="https://ld-multitec.fr/assets/logo-ld-multitec.webp" />
         <meta property="og:site_name" content="LD MULTITEC" />
         <meta property="og:locale" content="fr_FR" />
         {/* Twitter Card */}
@@ -245,7 +245,7 @@ export default function Index() {
           name="twitter:description"
           content="Expert en maintenance CVC multi-sites en Île-de-France. Contrats P2/P3, entretien chaufferie, dépannage et rénovation pour professionnels."
         />
-        <meta name="twitter:image" content="https://www.ldmultitec.fr/assets/og-ld-multitec-hero.png" />
+        <meta name="twitter:image" content="https://ld-multitec.fr/assets/og-ld-multitec-hero.png" />
         {/* Additional SEO */}
         <meta name="robots" content="index, follow" />
         <meta name="geo.region" content="FR-IDF" />
