@@ -11,7 +11,7 @@ export default function PolitiqueConfidentialite() {
           content="Politique de confidentialité du site LD MULTITEC. Informations sur la collecte, le traitement et la protection de vos données personnelles conformément au RGPD."
         />
         <meta name="robots" content="noindex, nofollow" />
-        <link rel="canonical" href="https://www.ldmultitec.fr/politique-de-confidentialite" />
+        <link rel="canonical" href="https://ld-multitec.fr/politique-de-confidentialite" />
       </Helmet>
 
       {/* HERO */}
@@ -42,10 +42,10 @@ export default function PolitiqueConfidentialite() {
                 LD MULTITEC s'engage à protéger la vie privée des utilisateurs de
                 son site internet{" "}
                 <a
-                  href="https://www.ldmultitec.fr"
+                  href="https://ld-multitec.fr"
                   className="text-[#1A7BAA] font-medium hover:text-[#D4550A] transition-colors"
                 >
-                  www.ldmultitec.fr
+                  ld-multitec.fr
                 </a>
                 . La présente politique de confidentialité décrit les données
                 personnelles que nous collectons, les raisons de leur collecte et
