@@ -1,0 +1,37 @@
+# LD MULTITEC
+
+> LD MULTITEC est une entreprise de maintenance CVC (chauffage, ventilation, climatisation) qui intervient sur toute l'Île-de-France. Elle assure la maintenance préventive, corrective et réglementaire des installations de bâtiments tertiaires, de copropriétés et d'établissements publics.
+
+## Services
+- Maintenance CVC complète : préventive, corrective et réglementaire
+- Contrats de maintenance P2 / P3 : périmètre clair, délais garantis, maîtrise budgétaire
+- Entretien de chaufferies collectives : suivi, optimisation des performances, conformité et sécurité
+- Dépannage CVC : diagnostic précis et compte-rendu systématique après chaque intervention
+- Rénovation et installation : réhabilitation, mise aux normes et modernisation des installations
+- Optimisation énergétique : réduction des consommations par l'analyse, le réglage et le suivi
+
+## Équipements pris en charge
+Chaufferies collectives, centrales de traitement d'air (CTA), VMC simple et double flux, systèmes DRV et split-system, groupes froids et climatisations tertiaires, pompes à chaleur, réseaux hydrauliques, régulation CVC et GTB.
+
+## Clients
+Entreprises tertiaires, syndics de copropriété, collectivités et établissements publics.
+
+## Engagements
+Respect des obligations légales d'entretien et des normes en vigueur, compte-rendu détaillé après chaque intervention, carnet d'entretien réglementaire tenu à jour, traçabilité des interventions.
+
+## Contact
+- Zone d'intervention : Île-de-France
+- E-mail : contact@ld-multitec.fr
+- Site : https://ld-multitec.fr/
+
+## Pages
+- [Accueil](https://ld-multitec.fr/)
+- [Maintenance CVC Île-de-France](https://ld-multitec.fr/maintenance-cvc-ile-de-france)
+- [Contrats de maintenance CVC](https://ld-multitec.fr/contrats-maintenance-cvc)
+- [Entretien chaufferie](https://ld-multitec.fr/entretien-chaufferie-ile-de-france)
+- [Dépannage CVC urgence](https://ld-multitec.fr/depannage-cvc-urgence-ile-de-france)
+- [Rénovation et installation CVC](https://ld-multitec.fr/renovation-installation-cvc)
+- [Optimisation énergétique CVC](https://ld-multitec.fr/optimisation-energetique-cvc)
+- [Réalisations](https://ld-multitec.fr/realisations)
+- [À propos](https://ld-multitec.fr/a-propos)
+- [Contact](https://ld-multitec.fr/contact)
